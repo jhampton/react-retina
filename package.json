@@ -1,4 +1,6 @@
 {
+  "name": "react-retina",
+  "version": "1.0.6",
   "devDependencies": {},
   "scripts": {
     "build": "webpack"
